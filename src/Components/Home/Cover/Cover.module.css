@@ -1,0 +1,6 @@
+.cover{
+  height: 100vh;
+  margin: 0px auto;
+  background: url('../../../assets/Header\ Image.svg') no-repeat center center/cover ;
+  overflow: hidden; 
+}

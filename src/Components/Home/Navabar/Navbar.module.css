@@ -1,0 +1,33 @@
+.navbar{
+  
+  width: 1200px;
+  margin: 0px auto;
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.nav-left p{
+  font-size: 18px;
+  color: var(--gen-color) ;
+  font-weight: bold;
+}
+.nav-middle{
+  width: 250px;
+  display: flex;
+  justify-content: space-between;
+}
+.nav-middle a{
+  align-self: center;
+  font-size: 15px;
+  color: var(--p-color);
+  text-decoration: none;
+}
+.nav-right a{
+  align-self: center;
+  font-size: 15px;
+  text-decoration: none;
+  color: white;
+  background: var(--gen-color);
+  padding: 12px 22px;
+  border-radius: 50px;
+}

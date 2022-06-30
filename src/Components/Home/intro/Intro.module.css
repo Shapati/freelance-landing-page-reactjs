@@ -1,0 +1,34 @@
+.intro{
+  width: 1200px;
+  margin: 160px auto 0px auto ;
+}
+.intro-left h1{
+  font-size: 60px;
+  line-height: 70px;
+  width: 50%;
+  margin-bottom: 20px;
+}
+.intro-left p{
+  width: 36%;
+  color: var(--p-color);
+  margin-bottom: 40px;
+}
+.intro-links a:nth-child(1){
+  padding: 11px 25px;
+  border-radius: 50px;
+  text-decoration: none;
+  color: white;
+  background: var(--gen-color);
+  margin-right: 25px;
+}
+.intro-links a:nth-child(2){
+  padding: 11px 25px;
+  border-radius: 50px;
+  border: 1px solid var(--gen-color);
+  text-decoration: none;
+  color: var(--gen-color);
+  background: transparent;
+}
+.intro-left img{
+  transform: translate(38.5vw , -49.6vh);
+}
